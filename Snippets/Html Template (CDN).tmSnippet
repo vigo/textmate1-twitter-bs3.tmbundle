@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;!DOCTYPE html&gt;
+&lt;html lang="en"&gt;
+    &lt;head&gt;
+        &lt;meta charset="utf-8"&gt;
+        &lt;meta http-equiv="X-UA-Compatible" content="IE=edge"&gt;
+        &lt;meta name="viewport" content="width=device-width, initial-scale=1"&gt;
+        &lt;title&gt;Hello World&lt;/title&gt;
+        &lt;link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css"&gt;
+        &lt;!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries --&gt;
+        &lt;!-- WARNING: Respond.js doesn't work if you view the page via file:// --&gt;
+        &lt;!--[if lt IE 9]&gt;
+            &lt;script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"&gt;&lt;/script&gt;
+            &lt;script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"&gt;&lt;/script&gt;
+        &lt;![endif]--&gt;
+    &lt;/head&gt;
+    &lt;body&gt;
+        &lt;div class="container"&gt;
+            &lt;div class="row"&gt;
+                &lt;div class="col-xs-12"&gt;
+                    &lt;h1&gt;Hello &lt;small&gt;world&lt;/small&gt;&lt;/h1&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"&gt;&lt;/script&gt;
+        &lt;script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"&gt;&lt;/script&gt;
+    &lt;/body&gt;
+&lt;/html&gt;</string>
+	<key>name</key>
+	<string>Html Template (CDN)</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>html</string>
+	<key>uuid</key>
+	<string>0291295A-D600-45C7-9F42-BE465D791106</string>
+</dict>
+</plist>

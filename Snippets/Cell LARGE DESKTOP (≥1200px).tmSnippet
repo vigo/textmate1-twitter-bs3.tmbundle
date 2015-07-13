@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>col-lg-${1:1-12}</string>
+	<key>name</key>
+	<string>Cell LARGE DESKTOP (≥1200px)</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>cel</string>
+	<key>uuid</key>
+	<string>7AC12E1A-7232-44B1-B053-C210CCEF9362</string>
+</dict>
+</plist>
