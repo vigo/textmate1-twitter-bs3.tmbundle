@@ -47,6 +47,16 @@ Creates html scaffold (*which is given at BS3 home page.*)
 * `list` : Un-styled list.
 * `label`
 
+## Typography (Inline Elements)
+
+* `mark` : `<mark>`
+* `del` : `<del>`
+* `strk` : Strikethrough `<s>`
+* `ins` : Inserted `<ins>`
+* `und` : Underlined `<u>`
+* `sml` : Small `<small>`
+
+
 ## Grid
 
 * `con` : Container

@@ -52,13 +52,9 @@
 			<dict>
 				<key>items</key>
 				<array>
+					<string>9CC0D644-E748-44B2-AD70-242819F32DB6</string>
+					<string>FCD942EE-9FA9-4976-ACB1-AD495EE4C8FD</string>
 					<string>27A0FB1A-C1A8-4439-851D-1E6E09E3ADBA</string>
-					<string>92537C1A-0E9F-4F42-A9FC-1A5D843C057A</string>
-					<string>3A12DD7E-1785-49D2-9B11-51065E31011E</string>
-					<string>8D5A2DC3-51FA-48E4-AF2A-F532AB99B54F</string>
-					<string>E392DD14-F55A-4DA7-9827-C6C0CA05E5C9</string>
-					<string>AD2DFE67-A434-470C-86C7-2CFF973087DE</string>
-					<string>694014B3-EC81-44B8-A002-C56D26EA9BCB</string>
 				</array>
 				<key>name</key>
 				<string>Typography</string>
@@ -85,6 +81,20 @@
 				<key>name</key>
 				<string>Label Class Only</string>
 			</dict>
+			<key>9CC0D644-E748-44B2-AD70-242819F32DB6</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>92537C1A-0E9F-4F42-A9FC-1A5D843C057A</string>
+					<string>3A12DD7E-1785-49D2-9B11-51065E31011E</string>
+					<string>8D5A2DC3-51FA-48E4-AF2A-F532AB99B54F</string>
+					<string>E392DD14-F55A-4DA7-9827-C6C0CA05E5C9</string>
+					<string>AD2DFE67-A434-470C-86C7-2CFF973087DE</string>
+					<string>694014B3-EC81-44B8-A002-C56D26EA9BCB</string>
+				</array>
+				<key>name</key>
+				<string>Headings</string>
+			</dict>
 			<key>DB4F0E05-D215-4B98-BF58-B3961F70AD26</key>
 			<dict>
 				<key>items</key>
@@ -98,6 +108,20 @@
 				</array>
 				<key>name</key>
 				<string>Label</string>
+			</dict>
+			<key>FCD942EE-9FA9-4976-ACB1-AD495EE4C8FD</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>3303151D-559A-4DCA-8F97-2D0BCA00732A</string>
+					<string>13FF0863-F023-4283-89D2-6E4E65422D18</string>
+					<string>4AAB3B73-C7E1-415C-9BDF-47195728E3D6</string>
+					<string>349A6186-1C35-4C5E-B58F-7BB875A54984</string>
+					<string>D778B749-EA13-4EE1-A716-B8A7158B1038</string>
+					<string>CF3F9F50-9586-4E5E-84CD-B1B96E9DAD2B</string>
+				</array>
+				<key>name</key>
+				<string>Inline Elements</string>
 			</dict>
 		</dict>
 	</dict>
@@ -141,6 +165,12 @@
 		<string>43433FA5-B1A3-4E56-8BAF-A6EED1E5BD70</string>
 		<string>BF050EDF-A626-4AC3-A12B-16ADA94343DA</string>
 		<string>C6C40828-391B-4815-9571-D3CDE9B21340</string>
+		<string>3303151D-559A-4DCA-8F97-2D0BCA00732A</string>
+		<string>13FF0863-F023-4283-89D2-6E4E65422D18</string>
+		<string>4AAB3B73-C7E1-415C-9BDF-47195728E3D6</string>
+		<string>349A6186-1C35-4C5E-B58F-7BB875A54984</string>
+		<string>D778B749-EA13-4EE1-A716-B8A7158B1038</string>
+		<string>CF3F9F50-9586-4E5E-84CD-B1B96E9DAD2B</string>
 	</array>
 	<key>uuid</key>
 	<string>BCD7BF46-2051-4E97-9410-25ED96DCDE95</string>
