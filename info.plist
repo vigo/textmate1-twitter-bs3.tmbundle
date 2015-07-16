@@ -54,10 +54,24 @@
 				<array>
 					<string>9CC0D644-E748-44B2-AD70-242819F32DB6</string>
 					<string>FCD942EE-9FA9-4976-ACB1-AD495EE4C8FD</string>
+					<string>5D1D95E0-D096-4FC2-9079-CBDCFDCED227</string>
 					<string>27A0FB1A-C1A8-4439-851D-1E6E09E3ADBA</string>
 				</array>
 				<key>name</key>
 				<string>Typography</string>
+			</dict>
+			<key>5D1D95E0-D096-4FC2-9079-CBDCFDCED227</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>A758193E-DF24-43EC-BDDC-779DC094A0F8</string>
+					<string>5559B470-BDA9-4097-963A-E2396FB75A57</string>
+					<string>91B4869C-F1A3-4FAE-967C-9B95E75B9537</string>
+					<string>25566AF6-C0ED-452B-AD51-57C9C21B7500</string>
+					<string>13569E83-F7F5-4D3A-A3E6-44AF694B2BED</string>
+				</array>
+				<key>name</key>
+				<string>Alignment</string>
 			</dict>
 			<key>7ADDCB59-2064-4933-A245-3FD68AC55A37</key>
 			<dict>
@@ -171,6 +185,11 @@
 		<string>349A6186-1C35-4C5E-B58F-7BB875A54984</string>
 		<string>D778B749-EA13-4EE1-A716-B8A7158B1038</string>
 		<string>CF3F9F50-9586-4E5E-84CD-B1B96E9DAD2B</string>
+		<string>A758193E-DF24-43EC-BDDC-779DC094A0F8</string>
+		<string>5559B470-BDA9-4097-963A-E2396FB75A57</string>
+		<string>91B4869C-F1A3-4FAE-967C-9B95E75B9537</string>
+		<string>25566AF6-C0ED-452B-AD51-57C9C21B7500</string>
+		<string>13569E83-F7F5-4D3A-A3E6-44AF694B2BED</string>
 	</array>
 	<key>uuid</key>
 	<string>BCD7BF46-2051-4E97-9410-25ED96DCDE95</string>

@@ -51,11 +51,14 @@ Creates html scaffold (*which is given at BS3 home page.*)
 
 * `mark` : `<mark>`
 * `del` : `<del>`
-* `strk` : Strikethrough `<s>`
+* `str` : Strikethrough `<s>`
 * `ins` : Inserted `<ins>`
 * `und` : Underlined `<u>`
 * `sml` : Small `<small>`
 
+## Alignment
+
+* `aln` : Left, center, right, justify, nowrap + `<p style="...">`
 
 ## Grid
 
