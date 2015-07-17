@@ -60,6 +60,10 @@ Creates html scaffold (*which is given at BS3 home page.*)
 
 * `aln` : Left, center, right, justify, nowrap + `<p style="...">`
 
+## Transformation
+
+* `tra` : Upper, Lower case and capitalize + `<p style="...">`
+
 ## Grid
 
 * `con` : Container

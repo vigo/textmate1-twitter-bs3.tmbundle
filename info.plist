@@ -55,6 +55,7 @@
 					<string>9CC0D644-E748-44B2-AD70-242819F32DB6</string>
 					<string>FCD942EE-9FA9-4976-ACB1-AD495EE4C8FD</string>
 					<string>5D1D95E0-D096-4FC2-9079-CBDCFDCED227</string>
+					<string>E8ED58FD-28E7-4567-B2A6-2C06F4EAF464</string>
 					<string>27A0FB1A-C1A8-4439-851D-1E6E09E3ADBA</string>
 				</array>
 				<key>name</key>
@@ -123,6 +124,17 @@
 				<key>name</key>
 				<string>Label</string>
 			</dict>
+			<key>E8ED58FD-28E7-4567-B2A6-2C06F4EAF464</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>16E89DA4-3711-49D8-A250-34B67A63134B</string>
+					<string>D0BFA4D4-4EA6-4725-BB49-D0CC6E16BAE9</string>
+					<string>BC2975BF-45A0-4033-A5F9-CF2C1B63C3A3</string>
+				</array>
+				<key>name</key>
+				<string>Transformation</string>
+			</dict>
 			<key>FCD942EE-9FA9-4976-ACB1-AD495EE4C8FD</key>
 			<dict>
 				<key>items</key>
@@ -190,6 +202,9 @@
 		<string>91B4869C-F1A3-4FAE-967C-9B95E75B9537</string>
 		<string>25566AF6-C0ED-452B-AD51-57C9C21B7500</string>
 		<string>13569E83-F7F5-4D3A-A3E6-44AF694B2BED</string>
+		<string>16E89DA4-3711-49D8-A250-34B67A63134B</string>
+		<string>D0BFA4D4-4EA6-4725-BB49-D0CC6E16BAE9</string>
+		<string>BC2975BF-45A0-4033-A5F9-CF2C1B63C3A3</string>
 	</array>
 	<key>uuid</key>
 	<string>BCD7BF46-2051-4E97-9410-25ED96DCDE95</string>
