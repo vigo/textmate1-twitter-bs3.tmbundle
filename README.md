@@ -64,6 +64,10 @@ Creates html scaffold (*which is given at BS3 home page.*)
 
 * `tra` : Upper, Lower case and capitalize + `<p style="...">`
 
+## Other
+
+* `abr` : Abbreviation (3 different)
+
 ## Grid
 
 * `con` : Container
