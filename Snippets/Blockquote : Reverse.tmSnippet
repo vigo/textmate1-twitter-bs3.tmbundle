@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;blockquote class="blockquote-reverse"&gt;
+	&lt;p&gt;${1:Text}&lt;/p&gt;
+	${2:&lt;footer&gt;${3:Who/Quote From}${4: &lt;cite title="${5:Source Title}"&gt;$5&lt;/cite&gt;}&lt;/footer&gt;}
+&lt;/blockquote&gt;$0
+</string>
+	<key>name</key>
+	<string>Blockquote : Reverse</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>quo</string>
+	<key>uuid</key>
+	<string>20517011-4369-4F1F-B944-4F473F73AF2F</string>
+</dict>
+</plist>

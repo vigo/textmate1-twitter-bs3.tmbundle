@@ -55,18 +55,12 @@ Creates html scaffold (*which is given at BS3 home page.*)
 * `ins` : Inserted `<ins>`
 * `und` : Underlined `<u>`
 * `sml` : Small `<small>`
+* `aln` : Align to left, center, right, justify or nowrap + `<p style="...">`
+* `tra` : Transform to uppercase, lowercase or capitalize + `<p style="...">`
+* `abr` : Abbreviation (*3 different*)
+* `adr` : Addresses + `<address>`
+* `quo` : Blockquote (*2 styles*)
 
-## Alignment
-
-* `aln` : Left, center, right, justify, nowrap + `<p style="...">`
-
-## Transformation
-
-* `tra` : Upper, Lower case and capitalize + `<p style="...">`
-
-## Other
-
-* `abr` : Abbreviation (3 different)
 
 ## Grid
 
