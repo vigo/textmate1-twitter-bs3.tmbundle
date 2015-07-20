@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>&lt;p class="text-nowrap"&gt;${1:Text}&lt;/p&gt;</string>
 	<key>name</key>
-	<string>Align : No Wrap</string>
+	<string>Align - No Wrap</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>

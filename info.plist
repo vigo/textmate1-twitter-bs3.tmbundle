@@ -10,7 +10,7 @@
 			<string>2799D01A-633B-4895-960C-23F60C89E4E1</string>
 			<string>14E51288-4593-4EED-B890-51DB7CFE52A0</string>
 			<string>2F8EE8FF-34BB-48BA-9E85-8F09CBFFC7D1</string>
-			<string>02C5CE3B-3B07-47CC-A11B-539DBE186B85</string>
+			<string>72CADDCE-D6B3-4A2B-B464-D4D7DD7A08B7</string>
 		</array>
 		<key>submenus</key>
 		<dict>
@@ -57,6 +57,8 @@
 					<string>5D1D95E0-D096-4FC2-9079-CBDCFDCED227</string>
 					<string>E8ED58FD-28E7-4567-B2A6-2C06F4EAF464</string>
 					<string>64FDF9F4-8FD0-4AB8-96A2-8DB5C6A1A808</string>
+					<string>C75752A2-D122-4A5C-9202-C7F30CCCC679</string>
+					<string>D51C605C-01D9-48B2-9124-2B57835127DF</string>
 					<string>27A0FB1A-C1A8-4439-851D-1E6E09E3ADBA</string>
 				</array>
 				<key>name</key>
@@ -86,11 +88,23 @@
 				<key>name</key>
 				<string>Abbreviation</string>
 			</dict>
+			<key>72CADDCE-D6B3-4A2B-B464-D4D7DD7A08B7</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>02C5CE3B-3B07-47CC-A11B-539DBE186B85</string>
+				</array>
+				<key>name</key>
+				<string>Image</string>
+			</dict>
 			<key>7ADDCB59-2064-4933-A245-3FD68AC55A37</key>
 			<dict>
 				<key>items</key>
 				<array>
 					<string>5A4630C6-60B0-412C-8C3C-2EDC213A01A9</string>
+					<string>0BA77815-C5F7-467B-8525-45CDAFAE6818</string>
+					<string>A86BB112-711A-4335-8EBF-E59D97F430C8</string>
+					<string>E3624CBA-3E57-418A-AA49-52ADE5995705</string>
 				</array>
 				<key>name</key>
 				<string>List</string>
@@ -121,6 +135,16 @@
 				</array>
 				<key>name</key>
 				<string>Headings</string>
+			</dict>
+			<key>C75752A2-D122-4A5C-9202-C7F30CCCC679</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>318E40A2-AD4B-457A-9ED7-5A9E9DE4CBA4</string>
+					<string>20517011-4369-4F1F-B944-4F473F73AF2F</string>
+				</array>
+				<key>name</key>
+				<string>Blockquote</string>
 			</dict>
 			<key>DB4F0E05-D215-4B98-BF58-B3961F70AD26</key>
 			<dict>
@@ -192,6 +216,9 @@
 		<string>AD2DFE67-A434-470C-86C7-2CFF973087DE</string>
 		<string>694014B3-EC81-44B8-A002-C56D26EA9BCB</string>
 		<string>5A4630C6-60B0-412C-8C3C-2EDC213A01A9</string>
+		<string>A86BB112-711A-4335-8EBF-E59D97F430C8</string>
+		<string>0BA77815-C5F7-467B-8525-45CDAFAE6818</string>
+		<string>E3624CBA-3E57-418A-AA49-52ADE5995705</string>
 		<string>8C3EEA3D-1F68-4310-BECF-4D92DF1BA463</string>
 		<string>3C0A1965-37EB-4178-827E-614408653EEC</string>
 		<string>CCF1A7E6-84E4-4C99-95B5-697707032901</string>

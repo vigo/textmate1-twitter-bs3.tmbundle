@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>&lt;abbr title="${1:HyperText Markup Language}" class="initialism"&gt;${2:HTML}&lt;/abbr&gt;</string>
 	<key>name</key>
-	<string>Abbreviation : Initialism</string>
+	<string>Abbreviation - Initialism</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>

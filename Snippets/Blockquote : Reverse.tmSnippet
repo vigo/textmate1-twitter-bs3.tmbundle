@@ -9,7 +9,7 @@
 &lt;/blockquote&gt;$0
 </string>
 	<key>name</key>
-	<string>Blockquote : Reverse</string>
+	<string>Blockquote - Reverse</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>

@@ -44,7 +44,7 @@ Creates html scaffold (*which is given at BS3 home page.*)
 
 * `lead` : `<p>` tag with class `lead`
 * `h1` to `h6` : Heading tags + `<small>` tag.
-* `list` : Un-styled list.
+* `list` : Unstyled, Unordered, Ordered and Inline list.
 * `label`
 
 ## Typography (Inline Elements)

@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>&lt;p class="text-lowercase"&gt;${1:Text}&lt;/p&gt;</string>
 	<key>name</key>
-	<string>Transformation : Lower Case</string>
+	<string>Transformation - Lower Case</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>

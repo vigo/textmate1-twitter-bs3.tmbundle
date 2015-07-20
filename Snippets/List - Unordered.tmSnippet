@@ -3,14 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;p class="text-left"&gt;${1:Text}&lt;/p&gt;</string>
+	<string>&lt;ul&gt;
+    &lt;li&gt;$0&lt;/li&gt;
+&lt;/ul&gt;</string>
 	<key>name</key>
-	<string>Align - Left</string>
+	<string>List - Unordered</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>aln</string>
+	<string>list</string>
 	<key>uuid</key>
-	<string>A758193E-DF24-43EC-BDDC-779DC094A0F8</string>
+	<string>0BA77815-C5F7-467B-8525-45CDAFAE6818</string>
 </dict>
 </plist>

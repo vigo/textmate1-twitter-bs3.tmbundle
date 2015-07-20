@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>&lt;abbr title="${1:attribute}"&gt;${2:attr}&lt;/abbr&gt;</string>
 	<key>name</key>
-	<string>Abbreviation : Basic</string>
+	<string>Abbreviation - Basic</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
