@@ -14,6 +14,18 @@
 		</array>
 		<key>submenus</key>
 		<dict>
+			<key>100F3E9E-8EB1-4CE1-9779-183162777BCA</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>78E23A5C-7949-4704-98AE-83A0041E48E7</string>
+					<string>06DFC7EA-391C-4E46-9C22-FBB54D2D6FF2</string>
+					<string>9752869B-DF57-4E0D-AA24-6A6438DAE5C1</string>
+					<string>D25C4014-EBF6-4BA4-96F1-888913823834</string>
+				</array>
+				<key>name</key>
+				<string>Description</string>
+			</dict>
 			<key>14E51288-4593-4EED-B890-51DB7CFE52A0</key>
 			<dict>
 				<key>items</key>
@@ -41,6 +53,7 @@
 			<dict>
 				<key>items</key>
 				<array>
+					<string>100F3E9E-8EB1-4CE1-9779-183162777BCA</string>
 					<string>7ADDCB59-2064-4933-A245-3FD68AC55A37</string>
 					<string>DB4F0E05-D215-4B98-BF58-B3961F70AD26</string>
 					<string>9805B25C-0630-4080-B253-4453D10B2269</string>
@@ -250,6 +263,10 @@
 		<string>D51C605C-01D9-48B2-9124-2B57835127DF</string>
 		<string>318E40A2-AD4B-457A-9ED7-5A9E9DE4CBA4</string>
 		<string>20517011-4369-4F1F-B944-4F473F73AF2F</string>
+		<string>78E23A5C-7949-4704-98AE-83A0041E48E7</string>
+		<string>06DFC7EA-391C-4E46-9C22-FBB54D2D6FF2</string>
+		<string>9752869B-DF57-4E0D-AA24-6A6438DAE5C1</string>
+		<string>D25C4014-EBF6-4BA4-96F1-888913823834</string>
 	</array>
 	<key>uuid</key>
 	<string>BCD7BF46-2051-4E97-9410-25ED96DCDE95</string>

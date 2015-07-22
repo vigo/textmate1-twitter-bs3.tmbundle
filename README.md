@@ -45,6 +45,7 @@ Creates html scaffold (*which is given at BS3 home page.*)
 * `lead` : `<p>` tag with class `lead`
 * `h1` to `h6` : Heading tags + `<small>` tag.
 * `list` : Unstyled, Unordered, Ordered and Inline list.
+* `dl` : Definition lists.
 * `label`
 
 ## Typography (Inline Elements)
@@ -87,6 +88,16 @@ this mini bundle :)
 5. Than create a new **Pull Request**!
 
 # Change Log
+
+**2015-07-22**
+
+* Description added. `dl`, `dd`, `dt`
+
+**2015-07-19**
+
+* Alignment tags added.
+* Text transforms added.
+* Address and Blockquote tags added.
 
 **2015-07-13**
 
