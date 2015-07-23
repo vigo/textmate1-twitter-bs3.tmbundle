@@ -72,6 +72,10 @@ Creates html scaffold (*which is given at BS3 home page.*)
 * `cel` : Cell (*xs-sm-md-lg*)
 * `off` : Offset (*xs-sm-md-lg*)
 
+## Code
+
+* `code` : 6 different styles (*basic, scrollable, variable, sample out etc...*)
+
 ## Other
 
 * `img` : Class for responsive image.
@@ -88,6 +92,10 @@ this mini bundle :)
 5. Than create a new **Pull Request**!
 
 # Change Log
+
+**2015-07-23**
+
+* `code` added.
 
 **2015-07-22**
 

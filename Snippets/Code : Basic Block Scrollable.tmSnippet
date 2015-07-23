@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;pre class="pre-scrollable"&gt;${1:Text}&lt;/pre&gt;$0</string>
+	<key>name</key>
+	<string>Code : Basic Block Scrollable</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>code</string>
+	<key>uuid</key>
+	<string>A61CA27D-A81E-495E-8DB6-941BAC7C0218</string>
+</dict>
+</plist>
