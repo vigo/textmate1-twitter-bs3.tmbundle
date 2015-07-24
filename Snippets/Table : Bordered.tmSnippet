@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;table class="table table-bordered"&gt;
+${1:&lt;thead&gt;
+    &lt;th&gt;${2:Head}&lt;/th&gt;
+&lt;/thead&gt;}
+&lt;/table&gt;</string>
+	<key>name</key>
+	<string>Table : Bordered</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>table</string>
+	<key>uuid</key>
+	<string>135FB0BD-5332-44E4-8D10-543F3F3D818E</string>
+</dict>
+</plist>

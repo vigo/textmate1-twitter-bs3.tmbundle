@@ -11,6 +11,7 @@
 			<string>14E51288-4593-4EED-B890-51DB7CFE52A0</string>
 			<string>2F8EE8FF-34BB-48BA-9E85-8F09CBFFC7D1</string>
 			<string>85D90FA8-96EA-4B39-9F40-C7C9BFB80F34</string>
+			<string>222F7D4D-7014-4455-97B2-F7BE142BFD58</string>
 			<string>72CADDCE-D6B3-4A2B-B464-D4D7DD7A08B7</string>
 		</array>
 		<key>submenus</key>
@@ -49,6 +50,19 @@
 				</array>
 				<key>name</key>
 				<string>Grid</string>
+			</dict>
+			<key>222F7D4D-7014-4455-97B2-F7BE142BFD58</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>773E2DC8-403B-4F20-9BE3-3A6BD3AACB9E</string>
+					<string>3B2E2118-2EE8-42F7-9B3A-55A85FE57343</string>
+					<string>135FB0BD-5332-44E4-8D10-543F3F3D818E</string>
+					<string>54A53F5B-9BE6-4EF3-AFC8-BC0A48CDF7B0</string>
+					<string>1C28E180-EE65-4079-AC3F-34F58516434D</string>
+				</array>
+				<key>name</key>
+				<string>Table</string>
 			</dict>
 			<key>2799D01A-633B-4895-960C-23F60C89E4E1</key>
 			<dict>
@@ -288,6 +302,11 @@
 		<string>A61CA27D-A81E-495E-8DB6-941BAC7C0218</string>
 		<string>1DCBF7E1-2563-409F-8F58-D318DA4D773F</string>
 		<string>141111FE-A96D-4CBC-A80B-D0B88B29264E</string>
+		<string>773E2DC8-403B-4F20-9BE3-3A6BD3AACB9E</string>
+		<string>3B2E2118-2EE8-42F7-9B3A-55A85FE57343</string>
+		<string>135FB0BD-5332-44E4-8D10-543F3F3D818E</string>
+		<string>54A53F5B-9BE6-4EF3-AFC8-BC0A48CDF7B0</string>
+		<string>1C28E180-EE65-4079-AC3F-34F58516434D</string>
 	</array>
 	<key>uuid</key>
 	<string>BCD7BF46-2051-4E97-9410-25ED96DCDE95</string>
