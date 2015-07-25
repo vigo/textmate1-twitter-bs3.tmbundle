@@ -77,6 +77,7 @@ Creates html scaffold (*which is given at BS3 home page.*)
 * `code` : 6 different styles (*basic, scrollable, variable, sample out etc...*)
 * `img` : Class for responsive image.
 * `table` : Table code supports 5 different style.
+* `cla` : Contextual classes such as `active`, `success`, `info`, `warning`, `danger`
 
 # Contribute
 
@@ -90,6 +91,10 @@ this mini bundle :)
 5. Than create a new **Pull Request**!
 
 # Change Log
+
+**2015-07-25**
+
+* Contextual classes added.
 
 **2015-07-24**
 

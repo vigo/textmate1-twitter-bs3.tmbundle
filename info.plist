@@ -12,6 +12,7 @@
 			<string>2F8EE8FF-34BB-48BA-9E85-8F09CBFFC7D1</string>
 			<string>85D90FA8-96EA-4B39-9F40-C7C9BFB80F34</string>
 			<string>222F7D4D-7014-4455-97B2-F7BE142BFD58</string>
+			<string>9C2AD12E-EA97-4FC8-90CF-F12C18167D99</string>
 			<string>72CADDCE-D6B3-4A2B-B464-D4D7DD7A08B7</string>
 		</array>
 		<key>submenus</key>
@@ -164,6 +165,19 @@
 				<key>name</key>
 				<string>Label Class Only</string>
 			</dict>
+			<key>9C2AD12E-EA97-4FC8-90CF-F12C18167D99</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>610A351E-0355-48F6-8067-0A6E9B926E82</string>
+					<string>A39F2B04-8BF2-4456-9759-859EC83A46B4</string>
+					<string>341300EB-FFA8-4C08-9C6F-3AE7FC37E3B5</string>
+					<string>F5BCD709-4969-4F10-8F00-D1090A24EEA4</string>
+					<string>FBB96297-BBE2-45D4-8A8D-3AB7ACD8B948</string>
+				</array>
+				<key>name</key>
+				<string>Contextual Classes</string>
+			</dict>
 			<key>9CC0D644-E748-44B2-AD70-242819F32DB6</key>
 			<dict>
 				<key>items</key>
@@ -307,6 +321,11 @@
 		<string>135FB0BD-5332-44E4-8D10-543F3F3D818E</string>
 		<string>54A53F5B-9BE6-4EF3-AFC8-BC0A48CDF7B0</string>
 		<string>1C28E180-EE65-4079-AC3F-34F58516434D</string>
+		<string>610A351E-0355-48F6-8067-0A6E9B926E82</string>
+		<string>A39F2B04-8BF2-4456-9759-859EC83A46B4</string>
+		<string>341300EB-FFA8-4C08-9C6F-3AE7FC37E3B5</string>
+		<string>F5BCD709-4969-4F10-8F00-D1090A24EEA4</string>
+		<string>FBB96297-BBE2-45D4-8A8D-3AB7ACD8B948</string>
 	</array>
 	<key>uuid</key>
 	<string>BCD7BF46-2051-4E97-9410-25ED96DCDE95</string>
