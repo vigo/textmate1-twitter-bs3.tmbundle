@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;div class="input-group-addon"&gt;${1:Text}&lt;/div&gt;</string>
+	<key>name</key>
+	<string>Form : Input Addon</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>form</string>
+	<key>uuid</key>
+	<string>10136D26-3F2E-46C7-A24A-4AE5FA7AF50C</string>
+</dict>
+</plist>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;label class="sr-only" for="${1:Element ID}"&gt;${2:SR Text}&lt;/label&gt;
+&lt;div class="input-group"&gt;
+    &lt;div class="input-group-addon"&gt;${3:\$}&lt;/div&gt;
+    &lt;input class="form-control" type="text" name="$1" id="$1" placeholder="$2"&gt;
+&lt;/div&gt;
+</string>
+	<key>name</key>
+	<string>Form : Input Group</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>form</string>
+	<key>uuid</key>
+	<string>01952156-2B02-4BB8-AFC6-9911038B9A9E</string>
+</dict>
+</plist>

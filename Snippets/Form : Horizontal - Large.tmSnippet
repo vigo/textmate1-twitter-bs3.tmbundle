@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;form class="form-horizontal" name="${1:name}" id="$1" method="post" action="${2:URL}"&gt;
+    &lt;div class="form-group form-group-lg"&gt;
+        &lt;label for="${3:Element ID}" class="control-label ${4:col-sm-2}"&gt;${5:Label}&lt;/label&gt;
+        &lt;div class="${6:col-sm-10}"&gt;
+            &lt;input class="form-control" type="email" id="$3" placeholder="$5"&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/form&gt;</string>
+	<key>name</key>
+	<string>Form : Horizontal - Large</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>form</string>
+	<key>uuid</key>
+	<string>FDFD76EA-8DE5-4A19-8567-955164F0C5D5</string>
+</dict>
+</plist>

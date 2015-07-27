@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;select class="form-control" name="${1:Name}" id="$1"&gt;
+    $0
+&lt;/select&gt;</string>
+	<key>name</key>
+	<string>Form : Select</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>form</string>
+	<key>uuid</key>
+	<string>5ADBD3C7-A8A0-444B-B773-06349D726049</string>
+</dict>
+</plist>

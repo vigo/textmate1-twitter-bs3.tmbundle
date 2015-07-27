@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;div class="form-group"&gt;
+    &lt;label for="${1:ElementID}"&gt;${2:Label}&lt;/label&gt;
+    &lt;input id="$1" class="form-control" type="${3:text|password|datetime|datetime-local|date|month|time|week|number|email|url|search|tel|color}" placeholder="${4:$2}"&gt;
+&lt;/div&gt;</string>
+	<key>name</key>
+	<string>Form : Text Input</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>form</string>
+	<key>uuid</key>
+	<string>5BE32B14-A8E3-43AE-B372-DB5E4F5AABA2</string>
+</dict>
+</plist>
