@@ -97,6 +97,10 @@ this mini bundle :)
 
 # Change Log
 
+**2015-07-29**
+
+* Bundle groupings done!
+
 **2015-07-27**
 
 * Form elements added. Buttons are not done yet!
