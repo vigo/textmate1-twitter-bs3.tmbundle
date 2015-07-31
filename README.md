@@ -42,9 +42,43 @@ Creates html scaffold (*which is given at BS3 home page.*)
 
 ## Typography
 
-* `lead` : `<p>` tag with class `lead`
-* `h1` to `h6` : Heading tags + `<small>` tag.
-* `list` : Unstyled, Unordered, Ordered and Inline list.
+## `lead`
+
+    <p class="lead">...</p>
+
+## `h1` to `h6`
+
+    <h1>...<smal>...</small></h1>
+    <h2>...<smal>...</small></h2>
+    <h3>...<smal>...</small></h3>
+    <h4>...<smal>...</small></h4>
+    <h5>...<smal>...</small></h5>
+    <h6>...<smal>...</small></h6>
+
+## `list`
+4 different list style:
+
+    # unstyled
+    <ul class="list-unstyled">
+        <li>...</li>
+    </ul>
+
+    # unordered
+    <ul>
+        <li>...</li>
+    </ul>
+
+    # inline
+    <ul class="list-inline">
+        <li>...</li>
+    </ul>
+
+    # ordered
+    <ol>
+        <li>...</li>
+    </ol>
+
+*  : Unstyled, Unordered, Ordered and Inline list.
 * `dl` : Definition lists.
 * `label`
 
