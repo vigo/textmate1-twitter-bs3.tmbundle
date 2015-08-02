@@ -78,9 +78,38 @@ Creates html scaffold (*which is given at BS3 home page.*)
         <li>...</li>
     </ol>
 
-*  : Unstyled, Unordered, Ordered and Inline list.
-* `dl` : Definition lists.
-* `label`
+## `dl`
+Definition lists.
+
+    # description
+    <dl>
+        <dt>Title</dt>
+        <dd>Text</dd>
+    </dl>
+
+    # description - horizontal
+    <dl class="dl-horizontal">
+        <dt>Title</dt>
+        <dd>Text</dd>
+    </dl>
+
+## `label`
+Creates htmls or just class names.
+
+    <span class="label label-default">Default</span>
+    <span class="label label-primary">Primary</span>
+    <span class="label label-success">Success</span>
+    <span class="label label-info">Info</span>
+    <span class="label label-warning">Warning</span>
+    <span class="label label-danger">Danger</span>
+
+    # class names only
+    label-default
+    label-primary
+    label-success
+    label-info
+    label-warning
+    label-danger
 
 ## Typography (Inline Elements)
 
