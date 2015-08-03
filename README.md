@@ -43,8 +43,13 @@ Creates html scaffold (*which is given at BS3 home page.*)
 ## Typography
 
 ## `lead`
+Creates `<p>` with class `lead` or just a class name.
 
     <p class="lead">...</p>
+    
+    # just a class name
+    class="lead"
+    
 
 ## `h1` to `h6`
 
@@ -94,7 +99,7 @@ Definition lists.
     </dl>
 
 ## `label`
-Creates htmls or just class names.
+Creates html or just class names.
 
     <span class="label label-default">Default</span>
     <span class="label label-primary">Primary</span>
@@ -102,7 +107,7 @@ Creates htmls or just class names.
     <span class="label label-info">Info</span>
     <span class="label label-warning">Warning</span>
     <span class="label label-danger">Danger</span>
-
+    
     # class names only
     label-default
     label-primary
@@ -113,18 +118,97 @@ Creates htmls or just class names.
 
 ## Typography (Inline Elements)
 
-* `mark` : `<mark>`
-* `del` : `<del>`
-* `str` : Strikethrough `<s>`
-* `ins` : Inserted `<ins>`
-* `und` : Underlined `<u>`
-* `sml` : Small `<small>`
-* `aln` : Align to left, center, right, justify or nowrap + `<p style="...">`
-* `tra` : Transform to uppercase, lowercase or capitalize + `<p style="...">`
-* `abr` : Abbreviation (*3 different*)
-* `adr` : Addresses + `<address>`
-* `quo` : Blockquote (*2 styles*)
+### `mark`
 
+    <mark>Text</mark>
+
+### `del`
+
+    <del>Text</del>
+
+### `str`
+Strikethrough element.
+
+    <s>Text</s>
+
+### `ins`
+Inserted text.
+
+    <ins>Text</ins>
+
+### `und`
+Underlined text.
+
+    <u>Text</u>
+
+### `sml`
+Small text.
+
+    <small>Text</small>
+
+### `aln`
+Align to **left**, **center**, **right**, **justify** or **nowrap** via `<p>`
+or just class names.
+
+    <p class="text-left">Text</p>
+    <p class="text-center">Text</p>
+    <p class="text-right">Text</p>
+    <p class="text-justify">Text</p>
+    <p class="text-nowrap">Text</p>
+    
+    # class names only
+    text-left
+    text-center
+    text-right
+    text-justify
+    text-nowrap
+
+### `tra`
+Transform to **uppercase**, **lowercase** or **capitalize** or just class names.
+
+    <p class="text-uppercase">Text</p>
+    <p class="text-lowercase">Text</p>
+    <p class="text-capitalize">Text</p>
+    
+    # class names only
+    text-uppercase
+    text-lowercase
+    text-capitalize
+
+### `abr`
+Abbreviation in 3 different styles:
+
+    <abbr title="attribute">attr</abbr>
+    <abbr title="HyperText Markup Language" class="initialism">HTML</abbr>
+    <abbr title="Phone Number">P:</abbr>
+
+### `adr`
+Addresses tag.
+
+    <address>
+        <strong>Company Name</strong><br>
+        Line 1<br/>
+        Line 2<br/>
+        <abbr title="Phone Title">P:</abbr> Phone
+    </address>
+    <address>
+        <strong>Full Name</strong><br>
+        <a href="mailto:first.last@gmail.com">first.last@gmail.com</a>
+    </address>
+
+### `quo`
+Blockquote in 2 different styles.
+
+    <blockquote>
+        <p>Text</p>
+        <footer>Who/Quote From <cite title="Source Title">Source Title</cite></footer>
+    </blockquote>
+    
+    # reverse
+    <blockquote class="blockquote-reverse">
+        <p>Text</p>
+        <footer>Who/Quote From <cite title="Source Title">Source Title</cite></footer>
+    </blockquote>
 
 ## Grid
 

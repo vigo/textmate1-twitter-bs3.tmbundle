@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>label-success</string>
 	<key>name</key>
-	<string>Label - Success (Class)</string>
+	<string>Label - Class : label-success</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>

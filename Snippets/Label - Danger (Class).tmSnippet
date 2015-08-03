@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>label-danger</string>
 	<key>name</key>
-	<string>Label - Danger (Class)</string>
+	<string>Label - Class : label-danger</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>

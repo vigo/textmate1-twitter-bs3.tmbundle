@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>label-primary</string>
+	<string>text-capitalize</string>
 	<key>name</key>
-	<string>Label - Class : label-primary</string>
+	<string>Transformation - Class : text-capitalize</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>label</string>
+	<string>tra</string>
 	<key>uuid</key>
-	<string>CCF1A7E6-84E4-4C99-95B5-697707032901</string>
+	<string>CE8203C5-8F5D-43D5-A386-AD4E75E3FC3D</string>
 </dict>
 </plist>

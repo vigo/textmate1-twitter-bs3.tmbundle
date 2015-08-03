@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>label-primary</string>
+	<string>text-left</string>
 	<key>name</key>
-	<string>Label - Class : label-primary</string>
+	<string>Align - Class : text-left</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>label</string>
+	<string>aln</string>
 	<key>uuid</key>
-	<string>CCF1A7E6-84E4-4C99-95B5-697707032901</string>
+	<string>AA1E12BA-750D-427E-9A10-71E37C6A9B6C</string>
 </dict>
 </plist>
