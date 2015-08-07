@@ -212,12 +212,65 @@ Blockquote in 2 different styles.
 
 ## Grid
 
-* `con` : Container
-* `blo` : Block
-* `row` : Row
-* `col` : Column (*xs-sm-md-lg*)
-* `cel` : Cell (*xs-sm-md-lg*)
-* `off` : Offset (*xs-sm-md-lg*)
+### `con` : Container
+
+    <div class="container">
+        ...
+    </div>
+
+### `blo` : Block
+
+    <div class="block">
+        ...
+    </div>
+
+### `row` : Row
+
+    <div class="row">
+        ...
+    </div>
+
+### `col` : Column (*xs-sm-md-lg*)
+
+**1-12** are options.
+
+    # xs
+    <div class="col-xs-1-12">
+        ...
+    </div>
+    
+    # sm
+    <div class="col-sm-1-12">
+        ...
+    </div>
+
+    # md
+    <div class="col-md-1-12">
+        ...
+    </div>
+
+    # lg
+    <div class="col-lg-1-12">
+        ...
+    </div>
+
+### `cel` : Cell (*xs-sm-md-lg*)
+
+Just creates class names. **1-12** are options.
+
+    col-xs-1-12
+    col-sm-1-12
+    col-md-1-12
+    col-lg-1-12
+
+### `off` : Offset (*xs-sm-md-lg*)
+
+Just creates class names. **1-12** are options.
+
+    col-xs-offset-1-12
+    col-sm-offset-1-12
+    col-md-offset-1-12
+    col-lg-offset-1-12
 
 ## Form Elements
 
