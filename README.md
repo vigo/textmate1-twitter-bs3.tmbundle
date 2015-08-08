@@ -274,7 +274,58 @@ Just creates class names. **1-12** are options.
 
 ## Form Elements
 
-* `form` : Creates form and form elements.
+`form` created few elements.
+
+    # form scaffold
+    <form name="?" id="?" method="post" action="?">
+        ...
+    </form>
+    
+    # inline
+    <form class="form-inline" name="?" id="?" method="post" action="?">
+        ...
+    </form>
+    
+    # horizontal
+    <form class="form-horizontal" name="?" id="?" method="post" action="?">
+        <div class="form-group">
+            <label for="?" class="control-label col-sm-2">Label</label>
+            <div class="col-sm-10">
+                <input class="form-control" type="email" id="?" placeholder="Label">
+            </div>
+        </div>
+    </form>
+    
+    # horizontal large
+    <form class="form-horizontal" name="?" id="?" method="post" action="?">
+        <div class="form-group form-group-lg">
+            <label for="?" class="control-label ?">Label</label>
+            <div class="?">
+                <input class="form-control" type="email" id="?" placeholder="Label">
+            </div>
+        </div>
+    </form>
+    
+    # horizontal small
+    <form class="form-horizontal" name="?" id="?" method="post" action="?">
+        <div class="form-group form-group-sm">
+            <label for="?" class="control-label ?">Label</label>
+            <div class="?">
+                <input class="form-control" type="email" id="?" placeholder="Label">
+            </div>
+        </div>
+    </form>
+    
+    # form static control
+    <form class="form-horizontal" name="?" id="?" method="post" action="?">
+        <div class="form-group">
+            <label for="?" class="control-label ?">Label</label>
+            <div class="?">
+                <p class="form-control-static">...</p>
+            </div>
+        </div>
+    </form>
+
 
 ## Other
 
