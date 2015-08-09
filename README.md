@@ -6,7 +6,7 @@ This bundle supports `v3.3.5` of [Twitter Bootstrap 3](http://getbootstrap.com/g
 
 Type the snippet shortcut and press `TAB` key!
 
-## Html Template: `html5`
+## Html Template: `html`
 
 Creates html scaffold (*which is given at BS3 home page.*)
 
