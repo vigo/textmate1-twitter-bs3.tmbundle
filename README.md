@@ -329,6 +329,19 @@ Just creates class names. **1-12** are options.
 
 ## Other
 
+### `code`
+
+Generates `<code>` tags:
+
+    # Default
+    <code>Text</code>
+    
+    # User Input
+    <kbd>Text</kbd>
+    
+    # Basic Block
+    <pre>Text</pre>
+
 * `code` : 6 different styles (*basic, scrollable, variable, sample out etc...*)
 * `img` : Class for responsive image.
 * `table` : Table code supports 5 different style.
