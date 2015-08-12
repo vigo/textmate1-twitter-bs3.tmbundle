@@ -341,8 +341,17 @@ Generates `<code>` tags:
     
     # Basic Block
     <pre>Text</pre>
+    
+    # Basic Block Scrollable
+    <pre class="pre-scrollable">Text</pre>
+    
+    # Variable
+    <var>Text</var>
+    
+    # Sample Out
+    <samp>Text</samp>
 
-* `code` : 6 different styles (*basic, scrollable, variable, sample out etc...*)
+
 * `img` : Class for responsive image.
 * `table` : Table code supports 5 different style.
 * `cla` : Contextual classes such as `active`, `success`, `info`, `warning`, `danger`
