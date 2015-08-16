@@ -351,8 +351,17 @@ Generates `<code>` tags:
     # Sample Out
     <samp>Text</samp>
 
+### `img`
 
-* `img` : Class for responsive image.
+Generates `img` tag + responsive class.
+
+    # Image Tag
+    <img src="URL" alt="#" />
+    
+    # Responsive Image Class
+    class="img-responsive"
+
+
 * `table` : Table code supports 5 different style.
 * `cla` : Contextual classes such as `active`, `success`, `info`, `warning`, `danger`
 
