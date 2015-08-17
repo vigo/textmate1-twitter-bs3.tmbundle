@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>class="img-responsive"</string>
+	<string>&lt;img src="${1:URL}" alt="${2:#}" /&gt;</string>
 	<key>name</key>
-	<string>Responsive Image Class</string>
+	<string>Image Tag</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
 	<string>img</string>
 	<key>uuid</key>
-	<string>02C5CE3B-3B07-47CC-A11B-539DBE186B85</string>
+	<string>94C5453F-CB56-4698-B77C-078D91AE8D83</string>
 </dict>
 </plist>
