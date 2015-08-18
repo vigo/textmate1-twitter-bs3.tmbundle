@@ -362,7 +362,52 @@ Generates `img` tag + responsive class.
     class="img-responsive"
 
 
-* `table` : Table code supports 5 different style.
+### `table`
+
+Generates 6 different styles
+
+    # Style 1
+    <table class="table">
+    <thead>
+        <th>Head</th>
+    </thead>
+    </table>
+    
+    # Style 2: Striped
+    <table class="table table-striped">
+    <thead>
+        <th>Head</th>
+    </thead>
+    </table>
+    
+    # Style 3: Bordered
+    <table class="table table-bordered">
+    <thead>
+        <th>Head</th>
+    </thead>
+    </table>
+    
+    # Style 4: Hover
+    <table class="table table-hover">
+    <thead>
+        <th>Head</th>
+    </thead>
+    </table>
+    
+    # Style 5: Condensed
+    <table class="table table-condensed">
+    <thead>
+        <th>Head</th>
+    </thead>
+    </table>
+    
+    # Style 5: Responsive
+    <table class="table table-responsive">
+    <thead>
+        <th>Head</th>
+    </thead>
+    </table>
+
 * `cla` : Contextual classes such as `active`, `success`, `info`, `warning`, `danger`
 
 
