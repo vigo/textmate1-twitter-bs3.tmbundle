@@ -408,7 +408,15 @@ Generates 6 different styles
     </thead>
     </table>
 
-* `cla` : Contextual classes such as `active`, `success`, `info`, `warning`, `danger`
+### Contextual Classes: `cla`
+
+Generates only class name:
+
+* active
+* success
+* info
+* warning
+* danger
 
 
 # Contribute
